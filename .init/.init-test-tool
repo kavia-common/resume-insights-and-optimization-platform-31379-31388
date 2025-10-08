@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/resume-insights-and-optimization-platform-31379-31388/resume_analyzer_frontend"
+}
